@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 
 This repository is built step by step in the tutorial.
 Includes a new line for GitHub.
+
+Add a new line to update-readme.
